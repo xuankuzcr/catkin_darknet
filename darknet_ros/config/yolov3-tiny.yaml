@@ -1,0 +1,17 @@
+yolo_model:
+
+  config_file:
+    name: yolov3-tiny-Testing.cfg
+  weight_file:
+    name: yolov3-tiny-Training_100000.weights
+  threshold:
+    value: 0.3
+  detection_classes:
+    names:
+      - The Front of robot
+      - The Back of robot
+      - The Side of robot
+      - Red No. 1 armor
+      - Blue No. 1 armor
+      - Red No. 2 armor
+      - Blue No. 2 armor
