@@ -3,6 +3,7 @@
 ## Brief Introduction
 
 This is a ROS package developed for enemy robot detection in ICRA-Robomaster AI Challenge. In the following ROS package you are able to use YOLO (V3) on **GPU and CPU**. </br>
+
 The pre-trained model of the convolutional neural network is able to detect pre-trained classes including `the data set made from the front, back, left and right sides of the robot and the numbers on the armor plate`.</br>
  At the same time, the real time robot pose can be calculated by PnP, which is shown in the terminal.
 
