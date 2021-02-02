@@ -24,4 +24,4 @@ The compilation method is the same as the normal ROS function package.
 
 ## Notice
 
-The interface including the RGB image input topic and the robot 6DOF  pose output topic have been reserved.
+The interface including `the RGB image input topic` and `the robot 6DOF  pose output topic` have been reserved.
